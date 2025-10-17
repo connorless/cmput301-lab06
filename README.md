@@ -1,2 +1,2 @@
-# cmput301-lab06
-you know what it is
+Name: Connor McRae
+CCID: cjmcrae
